@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "after-load": "^1.0.4",
+    "browserify": "^17.0.0",
+    "browserless": "^9.3.13",
+    "create-elements": "^1.1.9",
+    "html-get": "^2.9.10",
+    "node-fetch": "^3.2.0",
+    "node-html-crawler": "^1.2.3",
+    "node-html-parser": "^5.2.0",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "@types/request": "^2.48.8"
+  }
+}
